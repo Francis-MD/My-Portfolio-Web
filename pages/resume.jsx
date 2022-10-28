@@ -99,12 +99,12 @@ const resume = () => {
           <p className='py-1 italic'>Web Developer (2020 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              Developing responsive, mobile-friendly websites and application 
-              for diverse clients using HTML5, CSS3, JavaScript, React js.
+              Developing responsive, mobile-friendly websites and applications 
+              for diverse clients using HTML5, CSS3, JavaScript, and React.js.
             </li>
             <li>
               Troubleshoot issues and concerns, configure operation and analytic
-              plugins, and implementing changes as needed.
+              plugins, and implement changes as needed.
             </li>
             <li>
               Working directly with clients to understand their needs and
@@ -125,9 +125,8 @@ const resume = () => {
           <p className='py-1 italic'>Blog & Youtube Channel (2021 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              In 2021 I started “Capoeira360”, a YouTube channel to
-              share fitness content with the main goal of sharpenning my SEO 
-              ans social media management skills.
+            In 2021 I started “Capoeira 360”, a YouTube channel to share fitness content with 
+            the main goal of sharpening my SEO and social media management skills.
             </li>
           </ul>
         </div>
@@ -143,10 +142,12 @@ const resume = () => {
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
             Planning and managing documentation projects - focus on producing technical 
-            documentation in line with the industry best practices.
+            documentation in line with the industry's best practices.
             </li>
             <li>
             Create, organize, update, and maintain internal and customer-facing documentation and related templates.
+            </li>
+            <li>
             Work with stakeholders to meet project milestones, including document structuring, planning, and delivery.
             </li>
           </ul>
