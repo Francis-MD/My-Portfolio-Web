@@ -1,7 +1,8 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-import AboutImg from '../public/assets/about.gif'
+// import AboutImg from '../public/assets/about.gif'
+import AboutImg from '../public/assets/about-640x480.gif'
 
 const About = () => {
   return (
@@ -27,7 +28,8 @@ const About = () => {
           </Link>
         </div>
         <div className='w-full h-auto m-auto shadow-xl shadow-gray-300 rounded-lg flex items-center justify-center p-1'>
-          <Image src={AboutImg} className='rounded-lg' alt='/' width="800" height="600" />
+          {/* <Image src={AboutImg} className='rounded-lg' alt='/' width="800" height="600" /> */}
+          <Image src={AboutImg} className='rounded-lg' alt='/' width="640" height="480" />
         </div>
       </div>
     </div>
