@@ -8,8 +8,8 @@ const resume = () => {
       <Head>
         <title>Francis MD | Resume</title>
         <meta
-          name='description'
-          content='I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences.'
+          name="description"
+          content="I'm a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences."
         />
         <link rel='icon' href='/' />
       </Head>
@@ -141,8 +141,7 @@ const resume = () => {
           <p className='py-1 italic'>Medical Documentation (2016 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-            Planning and managing documentation projects - focus on producing technical 
-            documentation in line with the industry's best practices.
+            {'Planning and managing documentation projects - focus on producing technical documentation in line with the industry\'s best practices.'}
             </li>
             <li>
             Create, organize, update, and maintain internal and customer-facing documentation and related templates.
