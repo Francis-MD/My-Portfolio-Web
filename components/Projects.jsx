@@ -5,7 +5,7 @@ import adminImg from '../public/assets/projects/admin-dashboard.jpg'
 import cryptoImg from '../public/assets/projects/crypto.jpg'
 import netflixImg from '../public/assets/projects/netflix.gif'
 import twitchImg from '../public/assets/projects/twitch.jpg'
-import projectItem from './ProjectItem'
+import ProjectItem from './ProjectItem'
 
 const Projects = () => {
   return (
@@ -16,27 +16,27 @@ const Projects = () => {
         </p>
         <h2 className='py-4'>What I&apos;ve Built</h2>
         <div className='grid md:grid-cols-2 gap-8'>
-          <projectItem
+          <ProjectItem
             title='Admin-Dashboard'
             backgroundImg={adminImg}
             projectUrl='/property'
             tech='Bootstrap 5'
           />
-          <projectItem
+          <ProjectItem
             title='Crypto Landing Page'
             backgroundImg={cryptoImg}
             projectUrl='/crypto'
             tech='React JS'
 
           />
-          <projectItem
+          <ProjectItem
             title='Movie Geeks App'
             backgroundImg={netflixImg}
             projectUrl='/netflix'
             tech='React JS'
 
           />
-          <projectItem
+          <ProjectItem
             title='CoinMarketCap Clone'
             backgroundImg={twitchImg}
             projectUrl='/twitch'
