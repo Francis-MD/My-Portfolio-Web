@@ -1,16 +1,16 @@
-import Image from 'next/image';
-import React from 'react';
-import Javascript from '../public/assets/skills/javascript.png';
-import Python from '../public/assets/skills/python.png';
-import Csharp from '../public/assets/skills/csharp.png';
-import Html from '../public/assets/skills/html.png';
-import Css from '../public/assets/skills/css.png';
-import ReactImg from '../public/assets/skills/react.png';
-import Vue from '../public/assets/skills/vue.png';
-import Tailwind from '../public/assets/skills/tailwind.png';
-import Bootstrap from '../public/assets/skills/bootstrap.png';
-import Sass from '../public/assets/skills/sass.png';
-import Redux from '../public/assets/skills/redux.png';
+import Image from 'next/image'
+import React from 'react'
+import Javascript from '../public/assets/skills/javascript.png'
+import Python from '../public/assets/skills/python.png'
+import Csharp from '../public/assets/skills/csharp.png'
+import Html from '../public/assets/skills/html.png'
+import Css from '../public/assets/skills/css.png'
+import ReactImg from '../public/assets/skills/react.png'
+import Vue from '../public/assets/skills/vue.png'
+import Tailwind from '../public/assets/skills/tailwind.png'
+import Bootstrap from '../public/assets/skills/bootstrap.png'
+import Sass from '../public/assets/skills/sass.png'
+import Redux from '../public/assets/skills/redux.png'
 /* import Github from '../public/assets/skills/github1.png'; */
 /* import Firebase from '../public/assets/skills/firebase.png';
 import Node from '../public/assets/skills/node.png' */
