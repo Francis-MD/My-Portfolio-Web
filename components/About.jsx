@@ -27,7 +27,7 @@ const About = () => {
           </Link>
         </div>
         <div className='w-full h-auto m-auto shadow-xl shadow-gray-300 rounded-lg flex items-center justify-center p-1'>
-          <Image src={AboutImg} className='rounded-lg' alt='/' />
+          <Image src={AboutImg} className='rounded-lg' alt='/' width="800" height="600" />
         </div>
       </div>
     </div>
