@@ -87,6 +87,7 @@ const Navbar = () => {
       {/* Mobile Menu */}
       {/* Overlay */}
       <div
+        onClick={handleNav}
         className={
           nav ? 'md:hidden fixed left-0 top-0 w-full h-screen bg-black/70' : ''
         }
